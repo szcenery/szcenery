@@ -1,8 +1,7 @@
 ### Olá, aqui é a SunKitty! 
-<br><img src="https://i.pinimg.com/564x/9d/b9/15/9db915e40d438fd9fcf60d241c79bc96.jpg">
+<img src=<br>"https://i.pinimg.com/564x/9d/b9/15/9db915e40d438fd9fcf60d241c79bc96.jpg">
 
 <!--
-<img src="https://i.pinimg.com/564x/2f/e9/5c/2fe95cca384692d6be149b6a873063e6.jpg">
 **szcenery/szcenery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

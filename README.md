@@ -1,7 +1,6 @@
 ### Olá, aqui é a SunKitty! 
 <img src="https://i.pinimg.com/564x/07/c7/37/07c7374c6e467bd43a20b4e4abe568d3.jpg" width="2000">
 
-![92bf21afb5cc33d29c8fbe314aa37952](https://user-images.githubusercontent.com/104094070/167309865-a8e096a0-077c-4fd0-9f37-9f046a7bae0f.gif)
 <!--
 **szcenery/szcenery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="display: incline_block">
-  <img aligh="right" scr="https://i.pinimg.com/originals/92/bf/21/92bf21afb5cc33d29c8fbe314aa37952.gif">
-</div>
-
-![92bf21afb5cc33d29c8fbe314aa37952](https://user-images.githubusercontent.com/104094070/167309865-a8e096a0-077c-4fd0-9f37-9f046a7bae0f.gif)

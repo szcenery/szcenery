@@ -1,5 +1,5 @@
 ### Olá, aqui é a SunKitty! 
-<img src=<br>"https://i.pinimg.com/564x/9d/b9/15/9db915e40d438fd9fcf60d241c79bc96.jpg">
+<img src="https://i.pinimg.com/564x/9d/b9/15/9db915e40d438fd9fcf60d241c79bc96.jpg" width="700">
 
 <!--
 **szcenery/szcenery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

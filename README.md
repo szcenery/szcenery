@@ -1,5 +1,5 @@
 ### Olá, aqui é a SunKitty! 
-<img src="https://i.pinimg.com/564x/19/ce/82/19ce82c43fce3b40959b5825482463ed.jpg"><img src="https://i.pinimg.com/564x/19/ce/82/19ce82c43fce3b40959b5825482463ed.jpg">
+<img src="https://i.pinimg.com/564x/f4/49/da/f449da13d00c2e14c52c364210fb06ca.jpg">
 
 <!--
 <img src="https://i.pinimg.com/564x/2f/e9/5c/2fe95cca384692d6be149b6a873063e6.jpg">
